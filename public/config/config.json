@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2A9cd2482452205E6eD2BdDFac6DA489e00298d5",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2A9cd2482452205E6eD2BdDFac6DA489e00298d5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ICON APES Club",
+  "SYMBOL": "IA",
+  "MAX_SUPPLY": 1440,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/icon-apes-nft",
+  "SHOW_BACKGROUND": true
+}
